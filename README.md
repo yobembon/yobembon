@@ -1,10 +1,6 @@
--  I’m @yobembon 🇺🇾-
--  I’m interested in Astronomy 
--  I’m currently learning Astronomy ...
--  I’m looking to collaborate on Astronomy or a company 
--  How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m @yobembon 🇺🇾
+-  I’m interested in employee's for my company.
+-  I'm the boss of my company: Byron Company.
 
 <!---
 yobembon/yobembon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
